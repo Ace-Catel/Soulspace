@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerShoot : MonoBehaviour
 {
+    //Don't shoot if dialogue is displayed
+    DialogueManager dialogueManager;
+
     //ESSENTIAL: Player Shooting/Attack
     //Reference the location of where the "Projectile" comes from.
     public Transform firePoint;
@@ -16,15 +19,29 @@ public class PlayerShoot : MonoBehaviour
     //Determines the speed of the bullet that it created.
     public float bulletForce = 3f;
 
+    float fireRate = 0.25f;
+    float timeFireRate = 0f;
+
+    private void Awake()
+    {
+        timeFireRate = fireRate;
+        dialogueManager = GameObject.FindObjectOfType<DialogueManager>();
+    }
+
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButton("Fire1") && (timeFireRate >= fireRate) && !dialogueManager.dialogueOn)
         {
             //Comment ID:1
             //ESSENTIAL: Player Shooting/Attack
             //Call function within script
             Shoot();
+            timeFireRate = 0;
+        }
+        else
+        {
+            timeFireRate += Time.deltaTime * 1f;
         }
     }
 
