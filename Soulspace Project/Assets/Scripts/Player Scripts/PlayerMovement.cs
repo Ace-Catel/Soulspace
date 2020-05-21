@@ -5,6 +5,8 @@ using UnityEngine;
 // More information on Dash Skill Code: https://www.youtube.com/watch?v=w4YV8s9Wi3w
 public class PlayerMovement : MonoBehaviour
 {
+    //we will stop player from moving if the dialogue is open.
+    DialogueManager dialogueManager;
     //ESSENTIAL: Basic Movement
     //moveSpeed - Determines the speed of movement for player character
     public float moveSpeed = 3f;
@@ -29,6 +31,11 @@ public class PlayerMovement : MonoBehaviour
     //Used to decrease the value of "dashTime" in game. When dashTime reaches 0, it can reset using "startDashTime"
     public float startDashTime;
 
+    private void Awake()
+    {
+        dialogueManager = FindObjectOfType<DialogueManager>();
+    }
+
     //ESSENTIAL: Basic Movement
     // Update is called once per frame
     void Update()
@@ -41,9 +48,12 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        //ESSENTIAL: Basic Movement
-        //This code uses all Variables in this script to move player
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
-        //Delta time will make it rely on time and not how often Fixed Update has been called
+        if (!dialogueManager.dialogueOn)
+        {
+            //ESSENTIAL: Basic Movement
+            //This code uses all Variables in this script to move player
+            rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+            //Delta time will make it rely on time and not how often Fixed Update has been called
+        }
     }
 }
