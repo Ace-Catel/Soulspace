@@ -1372,6 +1372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42b0bf76b51bca34ea895f4dae0abe05, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerOn: 0
   dialogue: {fileID: 1846037201}
 --- !u!58 &1846037203
 CircleCollider2D:
@@ -1485,6 +1486,7 @@ MonoBehaviour:
   nameText: {fileID: 2088733150}
   dialogueText: {fileID: 1491926285}
   dialogueOn: 0
+  dialogueTrigger: {fileID: 0}
 --- !u!4 &2003886512
 Transform:
   m_ObjectHideFlags: 0

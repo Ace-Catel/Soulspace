@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 6cbd322f335c89f4c9134bc0ac5948d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4204596427979615147
+    second: Player Hands - Punch Sheet_0
+  - first:
+      213: -2617827312279073506
+    second: Player Hands - Punch Sheet_1
+  - first:
+      213: -3563468173170418854
+    second: Player Hands - Punch Sheet_2
+  - first:
+      213: -7478236413447607086
+    second: Player Hands - Punch Sheet_3
+  - first:
+      213: 1652814928968045829
+    second: Player Hands - Punch Sheet_4
+  - first:
+      213: 8572365228617659813
+    second: Player Hands - Punch Sheet_5
+  - first:
+      213: 3409542230091603105
+    second: Player Hands - Punch Sheet_6
+  - first:
+      213: -4817560450730226918
+    second: Player Hands - Punch Sheet_7
+  - first:
+      213: 6287700717279961460
+    second: Player Hands - Punch Sheet_8
+  - first:
+      213: -8328508563458001797
+    second: Player Hands - Punch Sheet_9
+  - first:
+      213: -1396161505687488774
+    second: Player Hands - Punch Sheet_10
+  - first:
+      213: -6393964707510066647
+    second: Player Hands - Punch Sheet_11
+  - first:
+      213: 535667139422585537
+    second: Player Hands - Punch Sheet_12
+  - first:
+      213: -5498333495846724238
+    second: Player Hands - Punch Sheet_13
+  - first:
+      213: 4199142208102769178
+    second: Player Hands - Punch Sheet_14
+  - first:
+      213: -633199511029480865
+    second: Player Hands - Punch Sheet_15
+  - first:
+      213: 3351808532252066673
+    second: Player Hands - Punch Sheet_16
+  - first:
+      213: -4704225144833147574
+    second: Player Hands - Punch Sheet_17
+  - first:
+      213: 1435142417418604066
+    second: Player Hands - Punch Sheet_18
+  - first:
+      213: -7608217249708866710
+    second: Player Hands - Punch Sheet_19
+  - first:
+      213: 4234801266267513660
+    second: Player Hands - Punch Sheet_20
+  - first:
+      213: 7771199905215392700
+    second: Player Hands - Punch Sheet_21
+  - first:
+      213: -3704119857485903358
+    second: Player Hands - Punch Sheet_22
+  - first:
+      213: -477288638771087027
+    second: Player Hands - Punch Sheet_23
+  - first:
+      213: -1642054031219705319
+    second: Player Hands - Punch Sheet_24
+  - first:
+      213: -7847061170359940649
+    second: Player Hands - Punch Sheet_25
+  - first:
+      213: -7046253328287693249
+    second: Player Hands - Punch Sheet_26
+  - first:
+      213: -6021944859969894637
+    second: Player Hands - Punch Sheet_27
+  - first:
+      213: -5097471102499267736
+    second: Player Hands - Punch Sheet_28
+  - first:
+      213: -7596435230672182500
+    second: Player Hands - Punch Sheet_29
+  - first:
+      213: 3731908861961363712
+    second: Player Hands - Punch Sheet_30
+  - first:
+      213: -1876295658226718442
+    second: Player Hands - Punch Sheet_31
+  - first:
+      213: -5560718862197262540
+    second: Player Hands - Punch Sheet_32
+  - first:
+      213: -2316168274041029278
+    second: Player Hands - Punch Sheet_33
+  - first:
+      213: -7958833040778536253
+    second: Player Hands - Punch Sheet_34
+  - first:
+      213: -673601147826896574
+    second: Player Hands - Punch Sheet_35
+  - first:
+      213: 7952715444696532367
+    second: Player Hands - Punch Sheet_36
+  - first:
+      213: -9098323036955976838
+    second: Player Hands - Punch Sheet_37
+  - first:
+      213: 3660631210543962247
+    second: Player Hands - Punch Sheet_38
+  - first:
+      213: -6162210026748490647
+    second: Player Hands - Punch Sheet_39
+  - first:
+      213: 2478585166489052195
+    second: Player Hands - Punch Sheet_40
+  - first:
+      213: -4241768353912573807
+    second: Player Hands - Punch Sheet_41
+  - first:
+      213: -1797805000646592774
+    second: Player Hands - Punch Sheet_42
+  - first:
+      213: 1218439420546814442
+    second: Player Hands - Punch Sheet_43
+  - first:
+      213: -1775939819725968988
+    second: Player Hands - Punch Sheet_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babe991ac2ab95a30800000000000000
+      internalID: 4204596427979615147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d4a48edeb9babd0800000000000000
+      internalID: -2617827312279073506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b54c993940c8ec0800000000000000
+      internalID: -3563468173170418854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc60167a97f73890800000000000000
+      internalID: -7478236413447607086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5055a90cb6affe610800000000000000
+      internalID: 1652814928968045829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57aa0d1c827f670800000000000000
+      internalID: 8572365228617659813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9d4ff790215f20800000000000000
+      internalID: 3409542230091603105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Hands - Punch Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b014a6b46942db0800000000000000
+      internalID: -4817560450730226918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
