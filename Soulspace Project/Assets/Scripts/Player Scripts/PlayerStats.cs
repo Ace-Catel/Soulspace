@@ -32,8 +32,9 @@ public class PlayerStats : MonoBehaviour
         {playerAlive = false;}
         
         // Stamina Regen System
-        else if (staminaCount < staminaStat && staminaRegenTimer <=0)
-        {staminaCount += 1 * Time.deltaTime;}
-        //Debug.Log("Stamina: " + staminaCount);
+        else if(staminaRegenTimer > 0)
+        {staminaRegenTimer -= 1 * Time.deltaTime;} // Countdown timer until stamina Regen begins
+        else if (staminaCount < staminaStat)
+        {staminaCount += 1 * Time.deltaTime;} // Stamina regen "1" per second
     }
 }
